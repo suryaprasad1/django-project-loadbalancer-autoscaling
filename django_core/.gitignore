@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# Environment variables
+.env
+.env.*
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if frontend exists)
+node_modules/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Docker
+*.pid
+*.sock
+
+# Jenkins / CI
+workspace/
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+build/
+
+# Secrets (IMPORTANT)
+*.pem
+*.key
+*.crt
