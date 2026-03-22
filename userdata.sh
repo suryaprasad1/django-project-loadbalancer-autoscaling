@@ -5,7 +5,7 @@ set -e
 #GIT_REPO_URL="https://github.com/codewithmuh/django-aws-ec2-autoscaling.git"
 #git@github.com:suryaprasad1/django-project-loadbalancer-autoscaling.git
 ##GIT_REPO_URL="https://suryaprasad1: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@github.com/codewithmuh/django-aws-ec2-autoscaling.git"
-#GIT_REPO_URL="https://suryaprasad1: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git@github.com:suryaprasad1/django-project-loadbalancer-autoscaling.git"
+GIT_REPO_URL="https://suryaprasad1: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git@github.com:suryaprasad1/django-project-loadbalancer-autoscaling.git"
 
 # Replace {YOUR_PROJECT_MAIN_DIR_NAME} with your actual project directory name
 PROJECT_MAIN_DIR_NAME="django-aws-ec2-autoscaling"
