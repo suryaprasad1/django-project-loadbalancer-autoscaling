@@ -1,0 +1,10 @@
+# Shell scripts must be LF
+*.sh text eol=lf
+
+# HTML, JS, CSS → LF (standard for web)
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+
+# Windows-specific files (optional)
+*.bat text eol=crlf
