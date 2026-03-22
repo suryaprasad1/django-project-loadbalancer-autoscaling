@@ -5,8 +5,8 @@ After=network.target
 [Service]
 User=ubuntu
 Group=www-data
-WorkingDirectory=/home/ubuntu/django-project-loadbalancer-autoscaling
-ExecStart=/home/ubuntu/django-project-loadbalancer-autoscaling/venv/bin/gunicorn \
+WorkingDirectory=/home/ubuntu/django-core
+ExecStart=/home/ubuntu/django-core/venv/bin/gunicorn \
           --access-logfile - \
           --workers 3 \
           --bind 0.0.0.0:8000 \
