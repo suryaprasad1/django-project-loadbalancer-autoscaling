@@ -1,5 +1,8 @@
 # 🚀 Deploy Django App on AWS using EC2 + Auto Scaling + Load Balancer + Route53
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/6f3a6105-647c-4685-8fec-896023afbe82" />
+
+
 ## 📌 Architecture Overview
 
 * EC2 (Django App)
