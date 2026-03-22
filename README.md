@@ -165,4 +165,8 @@ Highly available Django app with:
 
 ---
 
+<img width="1905" height="1523" alt="django-loadbalancer-project-2077564480 us-east-1 elb amazonaws com_8000_" src="https://github.com/user-attachments/assets/d519fe62-75f8-418e-a3fd-868312838e7b" />
+
+
+
 **Author: Surya Prasad**
